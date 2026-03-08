@@ -1,6 +1,19 @@
 # color_detection
 Real-time color detection using Python and OpenCV with HSV color space. Detects multiple colors such as red, blue, green, and more while excluding white color. Demonstrates basic computer vision techniques like color masking, contour detection, and HSV threshold testing.
 
+**⚙️ Technologies Used**
+-Python
+-OpenCV
+-NumPy
+-Computer Vision
+
+**🚀 Features**
+-Real-time color detection
+-Uses HSV color space for better accuracy
+-Detects multiple colors
+-Excludes white color detection
+-Displays color name on screen
+
 **OUTPUT 1- RED COLOR DETECTED**
 <img width="791" height="590" alt="red color detected" src="https://github.com/user-attachments/assets/eb553fea-d6fa-4ee1-b2dc-fddc1bb1b7bc" />
 
